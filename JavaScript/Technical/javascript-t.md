@@ -40,3 +40,4 @@
 * What's functional programming ?
 * What's the difference between classical inheritance and prototypal inheritance ?
 * What are the three prototypal inheritance ?
+* How can you avoid callback hell ?
